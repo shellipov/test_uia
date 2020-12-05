@@ -10,6 +10,11 @@ ru: {
   enLang: 'Английский',
   language: 'Язык',
   city: 'Город',
+  cityError: 'Нет такого города',
+  requestNumber: 'Запрос №',
+  requestDate: 'Дата запроса ',
+  sort: 'Сортировать',
+  more: 'Еще',
 
 },
 en: {
@@ -23,7 +28,11 @@ en: {
     enLang: 'English',
     language: 'Language',
     city: 'City',
-
+    cityError: 'There is no such city',
+    requestNumber: 'Request №',
+    requestDate: 'Request date ',
+    sort: 'Sort',
+    more: 'More',
 
 },
 }

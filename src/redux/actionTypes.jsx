@@ -1,0 +1,3 @@
+export const CHANGE_LANGUAGE = 'CHANGE_LANGUAGE';
+export const CHANGE_CITY = 'CHANGE_CITY';
+export const CHANGE_HISTORY = 'CHANGE_HISTORY';
